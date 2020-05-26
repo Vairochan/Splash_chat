@@ -1,6 +1,10 @@
 # splash
 
 A new Flutter project.
+A chat app based on googe firebase, storage is taken from cloud firestore.
+
+<img src ="screenshots/0.png" width="250">|<img src ="screenshots/1.png" width="250">|<img src ="screenshots/2.png" width="250">|
+<img src ="screenshots/3.png" width="250">|<img src ="screenshots/4.png" width="250">|
 
 ## Getting Started
 
